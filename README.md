@@ -1,2 +1,2 @@
-# Projeto-Gr-o-Mogol
+# Projeto-Grão-Mogol
 Padronização
